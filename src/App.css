@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  margin-left: 5%;
+}
+
+#question1_div {
+  margin-left: 5%;
 }
 
 .App-logo {
